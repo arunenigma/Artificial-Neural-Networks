@@ -1,6 +1,6 @@
 from __future__ import division
 __author__ = "arunprasath shankar <axs918@case.edu>"
-__date__ = "08/5/2012"
+__date__ = "08/05/2012"
 
 import random
 from difflib import SequenceMatcher
